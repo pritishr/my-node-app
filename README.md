@@ -1,4 +1,4 @@
-# My Node.js App
+# My Node.js App.
 
 This is a simple Node.js application using Express.js. It serves a basic "Hello World" message at the root URL.
 
